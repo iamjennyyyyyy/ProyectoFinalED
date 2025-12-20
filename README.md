@@ -3,15 +3,15 @@
 ## 📌 **Información del Proyecto**
 **Proyecto Final** de la asignatura **Estructuras de Datos**  
 **Equipo:** 3 desarrolladores  
-**Tutor:** Omar (Ayudante IP)  
+**Tutor:** Omar 
 **Fecha de inicio:** 17/11/2025  
 **Estado:** En fase de modelación y diseño  
 
 ## 👥 **Equipo de Desarrollo**
 | Rol | Nombre | Responsabilidades |
 |-----|--------|-------------------|
-| **Desarrolladora** | Nicole (Nickiiiiii 🪷💃🏻) | Modelación de dominio, lógica de negocio |
-| **Desarrolladora** | Jennifer (Jenny) | Diagramas, estructura de datos, interfaz |
+| **Desarrolladora** | Nicole | Modelación de dominio, lógica de negocio |
+| **Desarrolladora** | Jennifer | Diagramas, estructura de datos, interfaz |
 | **Desarrollador** | Dariel | Implementación, funcionalidades principales |
 | **Tutor/Asesor** | Omar | Guía, revisión técnica, coordinación |
 
