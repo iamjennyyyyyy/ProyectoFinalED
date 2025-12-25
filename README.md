@@ -103,14 +103,10 @@ MINSAP
 4. ✅ Clarificación de estructura árbol vs grafo
 
 ### **Próximos Pasos (Prioritarios)**
-1. **Diagrama de Clases** - Entregable inmediato
 2. **Diagrama del Árbol** jerárquico
 3. **Ejemplo del Grafo** de consejos populares
-4. **Creación del repositorio** Git
-5. **Revisión con Omar** - 20/12/2025
 
 ### **Pendientes por Definir**
-- Relación exacta: Policlínicos ↔ Consejos Populares
 - Atributos específicos de cada entidad
 - Formatos de reportes y visualizaciones
 
@@ -166,21 +162,6 @@ Dónde ubicar los Consejos Populares:
 - La Habana tiene ~15 municipios, 100+ consejos populares
 - Sistema debe manejar miles de registros eficientemente
 
-## 📞 **Coordinación y Comunicación**
-
-### **Canales**
-- **Grupo de WhatsApp:** "El proyecto" (principal)
-- **Reuniones presenciales:** Martes (coordinado)
-- **Repositorio Git:** Por crear
-
-### **Próxima Revisión**
-- **Fecha:** 20/12/2025 (noche)
-- **Entregables:**
-  1. Diagrama de clases completo
-  2. Diagrama del árbol de jerarquía
-  3. Ejemplo del grafo de consejos
-  4. Repositorio Git configurado
-
 ## ✅ **Criterios de Éxito**
 
 ### **Académicos**
@@ -194,11 +175,5 @@ Dónde ubicar los Consejos Populares:
 - [ ] Asociar casos a consejos populares
 - [ ] Generar reportes básicos
 - [ ] Detectar incrementos anómalos
-
----
-
-**Última actualización:** 19/12/2025  
-**Próxima revisión con Omar:** 20/12/2025 - 8:00 PM  
-**Estado:** Activo - Fase de diseño
 
 > *"Identificar posibles epidemias en los consejos populares mediante el análisis de datos de atención médica."* - Objetivo principal definido por el equipo
